@@ -6,10 +6,10 @@ package-lock.json
 # public/bundle.js
 public/bundle.js.map
 public/*.LICENSE.txt
-public/*.jpg
-public/*.png
-public/*.gif
-public/*.svg
+# public/*.jpg
+# public/*.png
+# public/*.gif
+# public/*.svg
 
 # IDE and Editor files
 .vscode/
