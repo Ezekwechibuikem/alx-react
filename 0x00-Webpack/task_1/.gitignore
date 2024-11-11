@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 
 # Build outputs
-public/bundle.js
+# public/bundle.js
 public/bundle.js.map
 public/*.LICENSE.txt
 
