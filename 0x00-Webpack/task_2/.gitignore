@@ -38,7 +38,7 @@ yarn-error.log*
 dist/
 
 # Webpack generated files
-**/bundle.js
-**/bundle.js.map
-**/*.hot-update.js
-**/*.hot-update.json
+# **/bundle.js
+# **/bundle.js.map
+# **/*.hot-update.js
+# **/*.hot-update.json
