@@ -10,7 +10,7 @@ node_modules/
 /public
 
 # Webpack specific
-*.bundle.js
+#*.bundle.js
 *.bundle.js.map
 
 # Debug logs
